@@ -1,10 +1,10 @@
 {
   "name": "@robinblomberg/css-ast",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "type": "module",
   "main": "lib/index.js",
-  "types": "lib/index.js",
+  "types": "lib/index.d.ts",
   "author": "Robin Blomberg",
   "license": "ISC",
   "repository": {

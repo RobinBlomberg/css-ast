@@ -1,10 +1,10 @@
 {
   "name": "@robinblomberg/css-ast",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "type": "module",
   "main": "lib/index.js",
-  "types": "lib/types.d.ts",
+  "types": "lib/index.js",
   "author": "Robin Blomberg",
   "license": "ISC",
   "repository": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/RobinBlomberg/css-ast#readme",
   "devDependencies": {
-    "@robinblomberg/eslint-config-robinblomberg": "^0.2.29",
+    "@robinblomberg/eslint-config-robinblomberg": "^0.2.30",
     "@types/chai": "^4.2.14",
     "@types/mocha": "^8.2.0",
     "c8": "^7.3.5",

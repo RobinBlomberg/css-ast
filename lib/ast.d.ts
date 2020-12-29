@@ -22,7 +22,7 @@ export type StyleDeclarationsPayload = StyleDeclaration[] | StyleDeclarationsObj
 export type StyleRule = {
   type: 'StyleRule';
   selector: string;
-  declarations: StyleDeclaration[] | StyleDeclarationsObject;
+  declarations: StyleDeclaration[];
 };
 
 export type StyleRulesObject = {

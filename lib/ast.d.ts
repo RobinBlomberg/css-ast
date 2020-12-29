@@ -1,3 +1,8 @@
+export type Node =
+  | StyleDeclaration
+  | StyleRule
+  | StyleSheet;
+
 export type Rule = StyleRule;
 
 export type StyleDeclaration = {
